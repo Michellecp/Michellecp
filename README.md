@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello World, I'm Michelle <img src="https://media.giphy.com/media/UOdoMz3baCENO/giphy.gif" width="45px"/></h1> 
+# Hello World, I'm Michelle 👋🏾👩🏾‍💻 
 <div style="display: inline_block">
   <img align="center" alt="Michelle-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-plain.svg">
   <img align="center" alt="Michelle-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,7 +8,7 @@
 
 <h2> ℹ️ About Me : </h2>
 
-In construction ... 🚧
+I'm a Computer Engeneer and I like inovation, knologe, leaning and travel!
 
 <h2> 🚀 Tech Skills... </h2>
 
