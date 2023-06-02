@@ -8,7 +8,7 @@
 
 <h2> ℹ️ About Me : </h2>
 
-I'm a Computer Engeneer and I like inovation, knologe, learn, teach and travel!
+I'm a Computer Engeneer and I like inovation, knologe, learn, teach and travel.
 
 <h2> 🚀 Tech Skills... </h2>
 
