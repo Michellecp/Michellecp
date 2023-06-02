@@ -4,11 +4,22 @@
   <img align="center" alt="Michelle-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Michelle-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Michelle-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Michelle-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div><br>
 
 <h2> ℹ️ About Me : </h2>
 
 I'm a Computer Engeneer and I like inovation, knologe, learn, teach and travel.
+
+```Apex
+AboutMe__c aboutMe = new AboutMe__c(
+  Name = 'Michelle',
+  programingLanguages__c = 'Apex;Visualforce;LightningComponents;SOQL;SOSL;Javascript',
+  workingWith__c = 'Apex;Visualforce;Lightning Components;SOQL;SOSL;Javascript',
+  studing__c = 'Typescript;Python;Clean Architecture;Clean Code'
+);
+Database.insert(aboutMe);
+```
 
 <h2> 🚀 Tech Skills... </h2>
 
